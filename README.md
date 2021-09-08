@@ -16,3 +16,15 @@ The saroornagar park is the one of the most famous tourist spot in southern indi
    4. In Hyderabad book an uber cab to saroornagar park
    5. buy an entry ticket
 4. Finally we have reached our destination .
+
+#### Items that needs to be brought to Favorite Place ####
+* Frisbee
+* Cricket Gear
+   * ball
+   * bat
+   * wickets
+* Water
+* Food
+* Music Player
+* Tent for campaign
+   
