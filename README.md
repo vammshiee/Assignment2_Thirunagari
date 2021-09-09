@@ -29,3 +29,15 @@ The saroornagar park is the one of the most famous tourist spot in southern indi
 * Tent for campaign
 
 [My Info](AboutMe.md) 
+
+---
+
+# Foods/drinks you should try once in a life time
+The given table  informs us about the best food that i have come across in my lifetime.
+ 
+| Food/Drink | Location | Price |
+|------------|--------|------|
+|   Butter Naan  | Saroornagar   | $1 |
+|   Falooda   | Dilsukhnagar| $2 |
+|   vada pav     | karmanghat | $5 |
+|   pav Bhaji     | Malakpet | $4 |
