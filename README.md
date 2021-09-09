@@ -41,3 +41,12 @@ The given table  informs us about the best food that i have come across in my li
 |   Falooda   | Dilsukhnagar| $2 |
 |   vada pav     | karmanghat | $5 |
 |   pav Bhaji     | Malakpet | $4 |
+
+
+---
+
+# Pithy Quotes
+
+> The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart. -Helen Keller
+> 
+> Whoever is happy will make others happy too. -Anne Frank
